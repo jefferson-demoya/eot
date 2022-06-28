@@ -1,5 +1,5 @@
 
-Proyecto de prueba realizada EOT.
+Proyecto de prueba realizada OET.
 
 #### Tecnologias
 - Html
